@@ -1,0 +1,52 @@
+c:\users\user\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\user\Documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\user\Documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\user\Documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\user\Documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\user\Documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\user\Documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form4.resources
+C:\Users\Recep\Desktop\Proje\Otel Programı\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Recep\Desktop\Proje\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Recep\Desktop\Proje\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Recep\Desktop\Proje\Otel Programı\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Recep\Desktop\Proje\Otel Programı\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Recep\Desktop\Proje\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Recep\Desktop\Proje\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+C:\Users\Recep\Desktop\Proje\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+C:\Users\Recep\Desktop\Proje\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+C:\Users\Recep\Desktop\Proje\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form4.resources
+C:\Users\Recep\Desktop\Proje\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Recep\Desktop\Proje\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Otel Programı\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\user\Desktop\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\user\Desktop\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\user\Desktop\Otel Programı\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\user\Desktop\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\user\Desktop\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Otel Programı\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\user\Desktop\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Yüklenme_ekranı.resources
+C:\Users\user\Desktop\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ana_ekran.resources
+C:\Users\user\Desktop\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Otopark_ekranı.resources
+C:\Users\user\Desktop\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Personel_ekranı.resources
+C:\Users\user\Desktop\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Otopark_Kayıt_Ekleme.resources
+C:\Users\user\Desktop\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Personel_Kayıt_Ekleme.resources
+C:\Users\user\Desktop\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Recep\Desktop\Otel Programı\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\Recep\Desktop\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\Recep\Desktop\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\Recep\Desktop\Otel Programı\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\Recep\Desktop\Otel Programı\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\Recep\Desktop\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Recep\Desktop\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Yüklenme_ekranı.resources
+C:\Users\Recep\Desktop\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Ana_ekran.resources
+C:\Users\Recep\Desktop\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Otopark_ekranı.resources
+C:\Users\Recep\Desktop\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Personel_ekranı.resources
+C:\Users\Recep\Desktop\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Otopark_Kayıt_Ekleme.resources
+C:\Users\Recep\Desktop\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Personel_Kayıt_Ekleme.resources
+C:\Users\Recep\Desktop\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\Recep\Desktop\Otel Programı\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
